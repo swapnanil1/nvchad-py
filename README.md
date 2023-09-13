@@ -29,7 +29,7 @@ echo "deb [signed-by=/etc/apt/keyrings/nodesource.gpg] https://deb.nodesource.co
 
 sudo apt-get install -y ca-certificates nodejs neovim curl gnupg unzip ripgrep build-essential python3 python3.10-venv python3-pip xclip
 
-#post
+# post
 NvChadUpdate
 MasonInstallAll
 TSInstall python
